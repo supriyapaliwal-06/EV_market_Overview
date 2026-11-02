@@ -74,7 +74,7 @@ The following screenshots showcase the Flask dashboard interface and its visuali
 
 Explore the interactive Tableau dashboard:
 
-**[View Tableau Dashboard](https://public.tableau.com/app/profile/mohd.tanzeel.imam/viz/Tanzeel/Story1?publish=yes)**
+**[View Tableau Dashboard](https://public.tableau.com/app/profile/supriya.paliwal/viz/EVMARKET-STORY_17935966134740/Story1?publish=yes)**
 
 ## 📂 Project Structure
 
@@ -138,6 +138,6 @@ The dataset contains EV attributes such as manufacturer, model year, battery spe
 
 ## 👨‍💻 Author
 
-**Mohd Tanzeel Imam**
+**Supriya Paliwal**
 
 ⭐ If you find this project useful, feel free to explore the dashboard and share your feedback.
